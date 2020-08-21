@@ -44,6 +44,8 @@ https://kodekloud.com/p/docker-labs
 * docker image prune -a
 
 
+## Tunnilla tehtiin
+* Docker lab 1 & 2
 
 ## Tehtävä toiselle kerralle
 * asenna Docker-ympäristö omalle koneelle
