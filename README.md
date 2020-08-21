@@ -28,6 +28,10 @@ https://kodekloud.com/p/docker-labs
 ### Lataa image
 * docker pull ubuntu
 
+### Näytä imaget / containerit
+* docker image ls
+* docker container ls -a
+
 ### Käynnistä container imagesta
 * docker run -it ubuntu
 * -it menee containerin terminaaliin
@@ -38,6 +42,8 @@ https://kodekloud.com/p/docker-labs
 ### Poista image
 * docker image rm imagen_nimi tai ID
 * docker image prune -a
+
+
 
 
 
