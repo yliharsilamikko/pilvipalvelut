@@ -45,6 +45,11 @@ https://kodekloud.com/p/docker-labs
 
 
 
+### Tehtävä toiselle kerralle
+* asenna Docker-ympäristö omalle koneelle
+
+
+
 
 
 
