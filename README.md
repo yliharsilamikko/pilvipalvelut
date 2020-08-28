@@ -50,6 +50,23 @@ https://kodekloud.com/p/docker-labs
 ## Tehtävä toiselle kerralle
 * asenna Docker-ympäristö omalle koneelle
 
+## 2. Tunnilla tehtiin
+* https://github.com/yliharsilamikko/pipa-exercise
+* Dockerfile, imagen buildaus, CMD, ENTRYPOINT
+* Docker lab 3 & 4
+
+
+## VI/VIM komentoja
+* vi filename.txt  -avaa tiedosto
+
+* vi:n sisällä
+* I -> mene insert moodiin, jossa voi kirjoittaa
+* ESC -> poistu insert moodista
+* :q -> sammuta tallentamatta
+* :q! -> sammuta tallentamatta (pakota sammutus vaikka muutoksia)
+* :w -> tallenna
+* :wq -> tallenna ja sulje
+
 
 
 
