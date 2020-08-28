@@ -43,6 +43,13 @@ https://kodekloud.com/p/docker-labs
 * docker image rm imagen_nimi tai ID
 * docker image prune -a
 
+### Käännä image Dockerfile:stä samassa kansiossa
+* docker build -t sleepy:1 .    <- huomaa piste lopussa, joka viittaa nykyiseen kansioon
+
+### Docker run parametreja
+* -it     -> käynnistä docker terminaalitilassa
+* --rm    -> poista container kun se pysähtyy
+* -d      -> käynnistä detach moodissa, ajaa dockeria taustalla
 
 ## Tunnilla tehtiin
 * Docker lab 1 & 2
@@ -66,14 +73,3 @@ https://kodekloud.com/p/docker-labs
 * :q! -> sammuta tallentamatta (pakota sammutus vaikka muutoksia)
 * :w -> tallenna
 * :wq -> tallenna ja sulje
-
-
-
-
-
-
-
-
-
-
-
