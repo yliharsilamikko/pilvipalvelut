@@ -50,6 +50,7 @@ https://kodekloud.com/p/docker-labs
 * -it     -> käynnistä docker terminaalitilassa
 * --rm    -> poista container kun se pysähtyy
 * -d      -> käynnistä detach moodissa, ajaa dockeria taustalla
+* -p 8080:80     -> ohjaa containerin portti 80 ulos porttiin 8080, jolloin esim selaimella saa otettua yhteyden osoitteeseen localhost:8080
 
 ## Tunnilla tehtiin
 * Docker lab 1 & 2
